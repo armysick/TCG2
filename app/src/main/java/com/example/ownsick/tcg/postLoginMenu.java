@@ -74,7 +74,7 @@ public class postLoginMenu extends Activity{
     }
 
     public void startGame(View v){
-        Intent i = new Intent(getApplicationContext(), postLoginMenu.class);
+        Intent i = new Intent(getApplicationContext(), gameMenu.class);
         v.getContext().startActivity(i);
 
     }

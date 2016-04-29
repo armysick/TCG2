@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#5a8a94"
+    android:background="@mipmap/boardbackground"
     android:id="@+id/gameLayout">
 
 </RelativeLayout>
