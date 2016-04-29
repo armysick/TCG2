@@ -21,7 +21,23 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
 
-        </activity><!-- ATTENTION: This was auto-generated to add Google Play services to your project for
+        </activity>
+        <activity
+            android:name=".postLoginMenu"
+            android:label="postLoginMenu"
+            android:screenOrientation="landscape"
+            android:configChanges="keyboardHidden|orientation|screenSize">
+
+        </activity>
+
+        <activity
+            android:name=".gameMenu"
+            android:label="gameMenu"
+            android:screenOrientation="landscape"
+            android:configChanges="keyboardHidden|orientation|screenSize">
+
+        </activity>
+        <!-- ATTENTION: This was auto-generated to add Google Play services to your project for
      App Indexing.  See https://g.co/AppIndexing/AndroidStudio for more information. -->
         <meta-data
             android:name="com.google.android.gms.version"

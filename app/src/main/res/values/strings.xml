@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">HelloWorld</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">muahaha I need love!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">FullscreenActivity</string>
+    <string name="play">Play!</string>
 </resources>
